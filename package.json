@@ -1,5 +1,5 @@
 {
-  "name": "rss-feed-emitter",
+  "name": "@joakimbeng/rss-feed-emitter",
   "version": "1.0.4",
   "description": "Super RSS News Feed aggregator written in Node.js and ES6",
   "main": "dist/rss-feed-emitter.js",
